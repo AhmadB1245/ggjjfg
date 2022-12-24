@@ -1,4 +1,4 @@
-      apt update
+Zzzzzz
 
 $ apt upgrade
 
@@ -10,6 +10,6 @@ $ cd BruteX
 
 $ chmod +x *
 
-$ bash setup.sh or ./setup.sh
+$ vvvb
 
-$ vvv                                       
+$ bash setup.sh or ./setup.sh                                      
